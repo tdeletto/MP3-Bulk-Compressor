@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Mp3Bulk" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+    <color name="bg">#FFF8F6FC</color>
+    <color name="ic_bg">#FF4F46E5</color>
+</resources>

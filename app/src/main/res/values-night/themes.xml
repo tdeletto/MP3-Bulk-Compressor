@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.Mp3Bulk" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+    <color name="bg">#FF131318</color>
+</resources>
