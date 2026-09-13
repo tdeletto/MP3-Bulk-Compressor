@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Keep platform scripts runnable: Unix shell scripts need LF, Windows batch files need CRLF
+gradlew text eol=lf
+*.bat text eol=crlf
